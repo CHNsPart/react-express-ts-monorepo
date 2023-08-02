@@ -16,6 +16,7 @@
 *.dat
 *password*
 *.httr-oauth*
+**/package-lock.json
  
 # Private Node Modules
 node_modules/
