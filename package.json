@@ -9,8 +9,14 @@
 
 
     },
-    "keywords": [],
-    "author": "",
+    "keywords": [
+        "React",
+        "Express",
+        "Node",
+        "NPM",
+        "Workspaces"
+    ],
+    "author": "Touhidul Islam Chayan",
     "license": "ISC",
     "workspaces": ["packages/server", "packages/client"]
 }
